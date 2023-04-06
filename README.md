@@ -18,3 +18,11 @@ Future Improvements:-
 2. Currently only single files can be leeched, multiple folders option will be included.
 3. If your device is behind a NAT , it will not be possible to estabish P2P connection. This problem will be rectified soon.
 4. Interactive UI will be added.
+
+Credits and References:-
+
+1. https://foss.coep.org.in/coepwiki/index.php/Bittorrent_Client#Overview
+2. https://en.wikipedia.org/wiki/BitTorrent
+3. http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/#comment-34530
+4. https://wiki.theory.org/BitTorrentSpecification
+5. https://roadmap.sh/guides/torrent-client
